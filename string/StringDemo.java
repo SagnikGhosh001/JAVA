@@ -5,6 +5,7 @@ public class StringDemo {
 	public static void main(String[] args) {
 		String name="computer";
 		String x="computer";
+		System.out.println(name.indexOf("E"));
 		System.out.println(name);
 		System.out.println(x.concat(name));
 		System.out.println(x==name);

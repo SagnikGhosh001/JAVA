@@ -13,7 +13,7 @@ public class Thisdemo {
 	}
 	public static void main(String[] args) {
 		Thisdemo td=new Thisdemo();
-		td.getdata(101, "Sagnik", "Kokata");
+		td.getdata(101, "Sagnik", "Kolkata");
 		td.display();
 
 	}

@@ -14,11 +14,11 @@ public class Practice {
 		System.out.println(p1.age);
 		System.out.println(p2.age);
 		System.out.println(p3.age);
-		age1=30;
+		p1.age1=30;
 		age1=31;
-		System.out.println(age1);
-		System.out.println(age1);
-		System.out.println(age1);
+		System.out.println(p1.age1);
+		System.out.println(p2.age1);
+		System.out.println(p3.age1);
 	}
 
 }

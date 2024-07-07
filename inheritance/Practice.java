@@ -24,9 +24,15 @@ public class Practice {
 //		c.m2();
 //		c.m3();
 //		c.m4();
-		Parent p=new Child();
-		p.m1();
-		p.m2();
+//		Parent p=new Parent();
+//		p.m1();
+//		p.m2();
+//		p.m3();
+		
+//		Parent p=new Child();
+//		p.m1();
+//		p.m2();
+		
 	}
 
 }
